@@ -1,6 +1,6 @@
 {
-  "name": "parcel-project-template",
-  "version": "2.0.0",
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
   "description": "",
   "homepage": "https://landres252.github.io/goit-js-hw-08",
   "scripts": {
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://landres252.github.io/goit-js-hw-08"
+    "url": "git+https://github.com/landres252/goit-js-hw-08"
   },
   "keywords": [],
   "author": "nn",
   "license": "ISC",
   "bugs": {
-    "url": "https://landres252.github.io/goit-js-hw-08"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.19.0",
